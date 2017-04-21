@@ -1,0 +1,6 @@
+保留工作区操作
+撤销add : git reset --mixed
+删除add ： git rm --cache
+撤销commit : git reset --softq
+撤销commit&add : git reset --mixed
+
